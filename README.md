@@ -1,1 +1,2 @@
 # Weather-App
+**WeatherWise** is a sleek and intuitive weather app built with HTML, CSS, and JavaScript. It provides real-time weather updates, forecasts, and current conditions with a clean and responsive design. Users can easily check weather details for their location or any city worldwide, thanks to JavaScript-powered API integrations. The app’s user-friendly interface and dynamic features make it a handy tool for staying informed about the weather anytime, anywhere.
